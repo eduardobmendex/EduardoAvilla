@@ -7,7 +7,8 @@
 
 ### [](https://github.com/EduardoAvilla/EduardoAvilla)Opa, tranquilo?
 
-Eu sou Eduardo, estudante de Análise e Desenvolvimento de Sistemas e  atualmente Desenvolvedor Front end. Sigo transformando soluções hipotéticas em soluções reais e digitais!
+Eu sou Eduardo, estudante de Análise e Desenvolvimento de Sistemas e  atualmente Desenvolvedor Front end. 
+Sigo transformando soluções hipotéticas em soluções reais e digitais!
 
 -  💻 Front-end Jr.
 -   ⛰  Sempre disposto a novas oportunidades de crescer e aprender.
