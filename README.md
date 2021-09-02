@@ -26,4 +26,5 @@ Tecnologias:
  <img src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg" width="4%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="5%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="5%"><img/>
+ <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="5%"><img/>
 <section/>
