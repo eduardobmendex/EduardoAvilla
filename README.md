@@ -1,7 +1,4 @@
- 
-![Screenshot](eduardomendes.png)
- 
- <p align="center">
+<p align="center">
   <img height="200" src="eduardomendes.png">
 </p>
 ## [](https://github.com/EduardoAvilla/EduardoAvilla)👨🏻‍💻Eduardo Mendes
