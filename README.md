@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="45%" src="eduardomendes.png">
+  <img height="40%" src="eduardomendes.png">
 </p>
 ## [](https://github.com/EduardoAvilla/EduardoAvilla)👨🏻‍💻Eduardo Mendes
 
