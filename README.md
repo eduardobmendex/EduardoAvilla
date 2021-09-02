@@ -16,3 +16,5 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 -   📡  Neste momento busco colaborar com projetos Front-end.
 -   💬  Sobre mim: Músico♫, cativado pela tecnologia e novos conhecimentos!!
 - ☎ (75) 9 81999481
+Tecnologias:
+![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
