@@ -17,4 +17,4 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 -   💬  Sobre mim: Músico♫, cativado pela tecnologia e novos conhecimentos!!
 - ☎ (75) 9 81999481
 Tecnologias:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="10%"><img/>
