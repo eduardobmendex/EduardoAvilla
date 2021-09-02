@@ -19,6 +19,7 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 Tecnologias:
  
 <br><br/>
+<div><div/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="5%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="5%"><img/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="5%"><img/>
