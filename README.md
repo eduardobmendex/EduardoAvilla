@@ -1,6 +1,5 @@
-<section id="foto">
+ 
 ![Screenshot](eduardomendes.png)
-  <section/>
  
  
 ## [](https://github.com/EduardoAvilla/EduardoAvilla)👨🏻‍💻Eduardo Mendes
