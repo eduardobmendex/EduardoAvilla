@@ -28,5 +28,5 @@ Tecnologias:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="5%"><img/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.png" width="5%"><img/>
  <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="5%"><img/>
- <img src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" width="5%"><img/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="5%"><img/>
 <section/>
