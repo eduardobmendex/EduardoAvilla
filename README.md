@@ -26,5 +26,5 @@ Tecnologias:
  <img src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg" width="4%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="5%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="5%"><img/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg" width="5%"><img/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.png" width="5%"><img/>
 <section/>
