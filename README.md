@@ -20,13 +20,13 @@ Tecnologias:
  
 <br><br/>
 <section>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="10%"><img/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="10%"><img/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="10%"><img/>
- <img src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg" width="10%"><img/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="10%"><img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="5%"><img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="5%"><img/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="5%"><img/>
+ <img src="https://iconape.com/wp-content/files/aj/349519/svg/bulma-seeklogo.com.svg" width="5%"><img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="5%"><img/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="10%"><img/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.png" width="10%"><img/>
- <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="10%"><img/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="10%"><img/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.png" width="5%"><img/>
+ <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="5%"><img/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="5%"><img/>
 <section/>
