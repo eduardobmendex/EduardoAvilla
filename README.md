@@ -17,7 +17,7 @@ Tecnologias:
  
  <style>
  img{
- margin-left: 25%;
+ margin-left: 50%;
 }
  <style/>
 <br><br/>
