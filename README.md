@@ -15,11 +15,7 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 - ☎ (75) 9 81999481
 Tecnologias:
  
- <style>
- img{
- margin-left: 50%;
-}
- <style/>
+ 
 <br><br/>
 <section>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="5%"><img/>
