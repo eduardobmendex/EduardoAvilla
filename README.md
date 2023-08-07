@@ -9,9 +9,9 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 
 -  💻 Front-end Jr.
 -   ⛰  Sempre disposto a novas oportunidades de crescer e aprender.
--   📰  Trabalho com as tecnologias React, Bootstrap,. Net. Asp.net.
+-   📰  Trabalho com as tecnologias React, Angular, Bootstrap,. Net. Asp.net.
 -   📡  Neste momento busco colaborar com projetos Front-end.
--   💬  Sobre mim: Músico♫, cativado pela tecnologia e novos conhecimentos!!
+-   💬  Sobre mim: Cativado pela tecnologia e novos conhecimentos!!
 - ☎ (75) 9 81999481
 Tecnologias:
  
