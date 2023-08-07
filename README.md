@@ -12,7 +12,7 @@ Sigo transformando soluções hipotéticas em soluções reais e digitais!
 -   📰  Trabalho com as tecnologias React, Angular, Bootstrap,. Net. Asp.net.
 -   📡  Neste momento busco colaborar com projetos Front-end.
 -   💬  Sobre mim: Cativado pela tecnologia e novos conhecimentos!!
-- ☎ (75) 9 81999481
+- ☎ (75) 9 82349525
 Tecnologias:
  
  
